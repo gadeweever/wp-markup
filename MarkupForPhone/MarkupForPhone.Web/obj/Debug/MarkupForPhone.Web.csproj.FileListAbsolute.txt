@@ -1,0 +1,5 @@
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\bin\MarkupForPhone.Web.dll
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\bin\MarkupForPhone.Web.pdb
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\obj\Debug\MarkupForPhone.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\obj\Debug\MarkupForPhone.Web.dll
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\obj\Debug\MarkupForPhone.Web.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkupForPhone", "MarkupForPhone\MarkupForPhone.csproj", "{A6F9CD9F-4A4E-4946-A5BB-B73AD0377F24}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CBB0CD04-DE50-4F90-8510-73A3781069A9} = {CBB0CD04-DE50-4F90-8510-73A3781069A9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkupForPhone.Web", "MarkupForPhone.Web\MarkupForPhone.Web.csproj", "{CBB0CD04-DE50-4F90-8510-73A3781069A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F9CD9F-4A4E-4946-A5BB-B73AD0377F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F9CD9F-4A4E-4946-A5BB-B73AD0377F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F9CD9F-4A4E-4946-A5BB-B73AD0377F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F9CD9F-4A4E-4946-A5BB-B73AD0377F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB0CD04-DE50-4F90-8510-73A3781069A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB0CD04-DE50-4F90-8510-73A3781069A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB0CD04-DE50-4F90-8510-73A3781069A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB0CD04-DE50-4F90-8510-73A3781069A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

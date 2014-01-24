@@ -1,0 +1,2 @@
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone
+Generated_Code\MarkupForPhone.Web.g.cs

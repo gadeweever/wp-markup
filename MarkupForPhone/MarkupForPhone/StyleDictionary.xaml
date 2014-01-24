@@ -1,0 +1,16 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="TextBlock" x:Key="TextBlockTitleStyle">
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="FontSize" Value="64" />
+        <Setter Property="FontFamily" Value="Segoe" />
+    </Style>
+    
+    <Style TargetType="TextBlock" x:Key="TextBlockTitle2Style">
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="FontFamily" Value="Segoe" />
+        <Setter Property="FontSize" Value="50" />
+    </Style>
+
+</ResourceDictionary>

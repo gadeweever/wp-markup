@@ -1,0 +1,1 @@
+C:\Users\Gamal\Documents\GitHub\wp-markup\MarkupForPhone\MarkupForPhone.Web\MarkupForPhone.Web.csproj,635261120379438005,Properties\AssemblyInfo.cs,
